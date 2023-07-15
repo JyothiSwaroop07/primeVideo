@@ -24,7 +24,7 @@ const PrimeVideo = props => {
         alt="prime video"
       />
       <MoviesContainer>
-        <SliderHeading>Action Movies</SliderHeading>
+        <SliderHeading>Action Moviess</SliderHeading>
         <MoviesSlider moviesList={actionList} />
         <SliderHeading>Comedy Movies</SliderHeading>
         <MoviesSlider moviesList={comedyList} />
